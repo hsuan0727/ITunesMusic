@@ -1,4 +1,4 @@
-# ITunesMusic
+# PlayMusic Project
 
 API：https://www.apple.com/itunes/
 - 100% Swift
